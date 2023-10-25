@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    cout<<"HELLLLLLLLLLLLLLLLLLLLLLLOOOOOOOOOOOOOO";
     int pid[15],bt[15], n;
       float att, awt,twt = 0,tat = 0;;
     cout << "Enter the number of processes: ";
