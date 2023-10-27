@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/aaaaaaaaaaaaaa/sd/web-c2",
-      "program": "c:/Users/Lenovo/Desktop/aaaaaaaaaaaaaa/sd/web-c2/build/Debug/outDebug",
+      "cwd": "c:/Users/Dell/Desktop/web-c2",
+      "program": "c:/Users/Dell/Desktop/web-c2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
