@@ -1,2 +1,1 @@
-cout<<"qua mettttttt";
-cout<<"helllo";
+//hello world
